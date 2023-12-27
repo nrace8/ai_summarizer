@@ -1,4 +1,6 @@
 # React + Vite
+Article Summarizer - Summarizes online articles via AI api thru RapidAPI.
+
 
 Deployed: https://relaxed-mochi-cd1979.netlify.app
 
@@ -6,6 +8,7 @@ Uses RapidAPI AI Summarizer for Summarizing an article
 
 - Redux toolkit
 - Tailwindcss
+- 
 
 
 
